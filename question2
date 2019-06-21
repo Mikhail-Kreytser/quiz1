@@ -13,8 +13,8 @@ done
 
 for file in *.py
 do
-wordCount=($(wc "-l" < "$file"))
-if((${word﻿Count}>=10))
+words=($(wc "-l" < "$file"))
+if((${words}>=10))
 then
 mv "$file" "long_${file}"
 ﻿﻿else
