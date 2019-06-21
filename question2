@@ -1,0 +1,23 @@
+for file in *.txt
+do
+mv "$file"  "new_${file}"
+done
+
+
+for file in *.bak
+do
+rm "$file"
+done
+
+
+
+for file in *.py
+do
+wordCount=($(wc "-l" < "$file"))
+if((${word﻿Count}>=10))
+then
+mv "$file" "long_${file}"
+﻿﻿else
+mv "$file" "short_${file}"
+fi
+done
