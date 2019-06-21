@@ -1,0 +1,6 @@
+My favorite editor is Intelij by Idea. I have used it the most and feel most comfortable with it. I like the fact that they offer a few version for students and a free community version if you are no longer a student. There is also a Ultimate version that is available for purchase. Intelij is used for Java development. All companies that I have worked in so far have a license for this editor and give it to their Java developers. 
+
+Intelij also has a lot of potential for integration with other tools. Intelij allows you to keep track of the whole git flow. You can switch branches within it. You can see past changes and current changes. You can see who wrote the line of code and when it was commited. Intelij can also show the link to the original pull request that introduced the specific change and its related changes. Intelij also had the capability to be integrated with deployment tooks. Intelij is basicly a hub that can like a bunch of tools together.
+
+
+I also like Intelij because it is very customizable. You can tweak it to your preferences. You can change the colors that show. I personally prefer the drakula theme. Intelij also alows you to build custom templates to speed up your work flow. for example if you need to build a test or a class you can build or use a template to speed up your work flow. 
